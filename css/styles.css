@@ -325,7 +325,7 @@ address {
         align-items: center;
     }
 
-    .burger-btn {
+    .burger-button {
         display: none;
     }
 
@@ -355,7 +355,6 @@ address {
         padding: 24px 0;
     }
 
-    /* Основні стилі для посилань у навігації */
     /* Посилання (a) */
     .nav-link {
         display: block;
@@ -401,7 +400,6 @@ address {
         line-height: 1.17;
         letter-spacing: 0.04em;
         color: #434455;
-        /* базовий колір тексту */
 
         transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
